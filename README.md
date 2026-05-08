@@ -147,8 +147,8 @@ Overall, the system improves the reliability, speed, and organization of academi
 
 ## 🔗 Links
 
-- 📺 YouTube Demo: ----------------  
-- 💻 GitHub Repository: [(https://github.com/nisar-ahmed01/java-project)]
+- 📺 YouTube Demo: (https://youtu.be/-iYnhLxB0aE)
+- 💻 GitHub Repository: (https://github.com/nisar-ahmed01/java-project)
 
 ---
 
