@@ -128,7 +128,7 @@ Overall, the system improves the reliability, speed, and organization of academi
 ---
 
 #### 3. Run Project
-- Run the main class (e.g., `Main.java` or `Dashboard.java`)  
+- Run the main class (e.g., `Main.java`)  
 - Application will start with Login screen  
 
 ---
